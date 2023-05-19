@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: azure;
+}
+
+div * {
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+}
+input {
+    width: 154px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+button {
+    width: 160px;
+    padding-bottom: 10px;
+}
+
+image {
+    max-width: 40;
+    height: auto;
+}
+
+p {
+    margin: 1px;
+    width: 232px;
+    border-style: solid;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+    color: azure;
+    text-align: center;
+}
